@@ -1,6 +1,5 @@
 # Framework Comparison Cheat Sheet: Micronaut vs. Spring Boot vs. Quarkus
 
-Creating a cheat sheet to compare Micronaut, Spring (specifically Spring Boot, which is more directly comparable), and Quarkus can quickly highlight the key features, strengths, and trade-offs of each framework.
 
 ## Comparison Table
 
